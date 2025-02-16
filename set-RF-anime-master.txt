@@ -1,0 +1,15 @@
+Reshaun's Anime Levels Master
+Difficulty: Impossible\Nevergaiden: The Unofficial Tough Japanese Asian Set\Author: Reshaun Francis\For Cutsman
+RF-anime-master
+shot-RF-anime-master/RF-acheron.png
+155000 162600 170000  65 35 0
+map-RF-anime-master/RF-speedtag.sol
+map-RF-anime-master/RF-curtaincall.sol
+map-RF-anime-master/RF-masterofall.sol
+map-RF-anime-master/RF-maelstrom.sol
+map-RF-anime-master/RF-tartarus.sol
+map-RF-anime-master/RF-sisyphus.sol
+map-RF-anime-master/RF-acheron.sol
+map-RF-anime-master/RF-babel.sol
+map-RF-anime-master/RF-gauntlet.sol
+map-RF-anime-master/RF-grandfinale.sol

@@ -1,0 +1,30 @@
+Reshaun's Anime Levels Suite
+Difficulty: Expert through Very Insane\Nevergaiden: The Unofficial Second Japanese Asian Set\Author: Reshaun Francis\For Cutsman
+RF-anime-II
+shot-RF-anime/RF-gaokao.png
+147400 161800 180000  1290 630 0
+map-RF-anime/RF-dropofdoom.sol
+map-RF-anime/RF-departure.sol
+map-RF-anime/RF-warpdreams.sol
+map-RF-anime/RF-rook.sol
+map-RF-anime/RF-rigidify.sol
+map-RF-anime/RF-assembly.sol
+map-RF-anime/RF-slotmachine.sol
+map-RF-anime/RF-focusbreaker.sol
+map-RF-anime/RF-carpets.sol
+map-RF-anime/RF-albatross.sol
+map-RF-anime/RF-gaokao.sol
+map-RF-anime/RF-derelict.sol
+map-RF-anime/RF-gradientdescent.sol
+map-RF-anime/RF-raze.sol
+map-RF-anime/RF-revision.sol
+map-RF-anime/RF-visionary.sol
+map-RF-anime/RF-factory.sol
+map-RF-anime/RF-spinways.sol
+map-RF-anime/RF-antagonizer.sol
+map-RF-anime/RF-colossus.sol
+map-RF-anime/RF-exodus.sol
+map-RF-anime/RF-pandorabox.sol
+map-RF-anime/RF-ausdauer.sol
+map-RF-anime/RF-trickroom.sol
+map-RF-anime/RF-redsea.sol

@@ -1,0 +1,30 @@
+Reshaun's Anime Levels
+Difficulty: Advanced through Expert\Nevergaiden: The Unofficial First Japanese Asian Set\Author: Reshaun Francis\For Cutsman
+RF-anime-I
+shot-RF-anime/RF-expedition.png 
+65700 82900 90000  1245 595 0
+map-RF-anime/RF-ease.sol
+map-RF-anime/RF-cornercraft.sol
+map-RF-anime/RF-expedition.sol
+map-RF-anime/RF-flippers.sol
+map-RF-anime/RF-stairvalley.sol
+map-RF-anime/RF-margin.sol
+map-RF-anime/RF-landinggear.sol
+map-RF-anime/RF-parkour.sol
+map-RF-anime/RF-unwind.sol
+map-RF-anime/RF-shrinkray.sol
+map-RF-anime/RF-cyclehit.sol
+map-RF-anime/RF-rampbridges.sol
+map-RF-anime/RF-suspension.sol
+map-RF-anime/RF-quaketray.sol
+map-RF-anime/RF-masterofnone.sol
+map-RF-anime/RF-trinity.sol
+map-RF-anime/RF-battleroyale.sol
+map-RF-anime/RF-tug.sol
+map-RF-anime/RF-whirlers.sol
+map-RF-anime/RF-diaphragm.sol
+map-RF-anime/RF-catenary.sol
+map-RF-anime/RF-turbine.sol
+map-RF-anime/RF-piercers.sol
+map-RF-anime/RF-sway.sol
+map-RF-anime/RF-bumpplex.sol
