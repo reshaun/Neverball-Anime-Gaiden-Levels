@@ -2,7 +2,7 @@
 
 The Unofficial Japanese Levelsets.
 
-The Remake of Super Monkey Ball Games.
+The Credited to Remake of Super Monkey Ball Games.
 
 50 Levels in 2 Gaiden sets and 10 Insanity Levels in Gaiden Master pack.
 It's Unofficial.
